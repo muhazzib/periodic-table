@@ -1,0 +1,69 @@
+.one{
+    empty-cells: hide;
+    border-color: black;
+border-spacing: 5px;
+
+}
+
+td{
+    padding: 14px;
+    font-size: 20px;
+    
+}
+   
+body
+{
+    background-color: black;
+    color: white;
+
+ font-family: italic;
+ font-weight: bold;
+}
+
+}
+@font-face{
+    font-family: italic;
+    src: url("../fonts/molleat/italic.otf");
+}
+
+
+
+.sky{
+    background-color: skyblue;
+}
+.green{
+    background-color: green;
+}
+.pink{
+    background-color: pink;
+}
+
+.blue{
+background-color: blue;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.yellow{
+    background-color: yellowgreen;
+}
+.brown{
+    background-color: brown;
+}
+.purple{
+    background-color: purple;
+}
+
+
+.dodger{
+    background-color: dodgerblue;
+}
+
+.headingone{
+text-align: center;
+}
+td.lan{
+    font-size: 24px;
+}
